@@ -1,6 +1,8 @@
-# Product-Recommendation-and-Sales-Volume-Prediction
+# User-Clustering-Product-Recommendation-and-Sales-Volume-Prediction
 
- APRIORI, ARIMA
+K-Means, APRIORI, ARIMA
+
+Used K-Means and RFM model to perform user clustering, completed visualization by TNSE
  
 Analyzed association rules with APRIORI algorithm by importing apyori and mlxtend libraries
 
