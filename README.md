@@ -2,7 +2,7 @@
 
 K-Means, APRIORI, ARIMA
 
-Used K-Means and RFM model to perform user clustering, completed visualization by TNSE
+Used K-Means and RFM model to perform user clustering, completed visualization by TSNE
  
 Analyzed association rules with APRIORI algorithm by importing apyori and mlxtend libraries
 
